@@ -62,6 +62,7 @@
 
 ## Micron
 - Micron 32GB DDR4-3200 CL22 16ATF4G64HZ-3G2B2 ([1](https://www.mydealz.de/comments/permalink/37758713))  
+- Micron 8GB DDR4-3200 1Rx16 MTA4ATF1G64HZ-3G2E1
 
 ## SK Hynix
 - SK Hynix 16GB DDR4-3200 CL22 HMAA2GS6CJR8N-XN ([1](https://www.mydealz.de/comments/permalink/37758713))  
